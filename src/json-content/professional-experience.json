@@ -1,0 +1,40 @@
+{
+    "professionalExperiences": [
+      {
+        "companyName": "Tech Innovators Ltd.",
+        "companySector": "Technology",
+        "jobTitle": "Software Engineer Intern",
+        "jobLocation": "New York, USA",
+        "positionType": "Internship",
+        "jobFunction": "Development",
+        "startDate": "2023-06-01",
+        "endDate": "2023-08-31",
+        "currentlyWorking": false,
+        "description": "Contributed to the development of a cutting-edge AI-powered analytics platform. Improved performance by optimizing algorithms and collaborated with cross-functional teams to meet project goals."
+      },
+      {
+        "companyName": "GreenTech Solutions",
+        "companySector": "Renewable Energy",
+        "jobTitle": "Project Manager Intern",
+        "jobLocation": "Berlin, Germany",
+        "positionType": "Internship",
+        "jobFunction": "Project Management",
+        "startDate": "2022-05-01",
+        "endDate": "2022-07-30",
+        "currentlyWorking": false,
+        "description": "Led a project team of five to deliver a prototype for a solar energy monitoring system. Ensured timely execution and met key project deliverables under tight deadlines."
+      },
+      {
+        "companyName": "FinCorp Advisory",
+        "companySector": "Finance",
+        "jobTitle": "Financial Analyst Intern",
+        "jobLocation": "Mumbai, India",
+        "positionType": "Internship",
+        "jobFunction": "Analysis",
+        "startDate": "2023-09-01",
+        "currentlyWorking": true,
+        "description": "Analyzed key market trends and provided recommendations that enhanced portfolio performance by 15%. Automated financial reporting processes, reducing time by 30%."
+      }
+    ]
+  }
+  

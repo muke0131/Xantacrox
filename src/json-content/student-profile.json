@@ -1,0 +1,52 @@
+[
+    {
+        "about": {
+          "isFreezed": false,
+          "Full_Name": "TUSHAR TOMAR",
+          "DateOfBirth": "13 May, 2004",
+          "Gender": "Male",
+          "College": "SRM Institute of Science and Technology - Modi Nagar Campus"
+        },
+        "summary": {
+          "isFreezed": false,
+          "text": "I'm a hardworking student at SRMIST Modinagar, studying Technology with a focus on Artificial Intelligence and Machine Learning. I believe in working diligently and being punctual. Challenges motivate me, and I'm committed to doing well in my studies and future career. I love AI and ML and want to make a meaningful impact in the tech world."
+        },
+        "address": {
+          "isFreezed": false,
+          "Permanent_Address": "494 Muneem Colony New Mandi Muzaffaranagar, Muzaffar Nagar, Muzaffar Nagar, Uttar Pradesh, India, 251001",
+          "Current_Address": "494 Muneem Colony New Mandi Muzaffaranagar, Muzaffar Nagar, Muzaffar Nagar, Uttar Pradesh, India, 251001"
+        },
+        "placements": {
+          "isFreezed": false,
+          "enrollments": [
+            {
+              "period": "Jun 2022 - Jul 2024",
+              "description": "Interview Weeks by Superset"
+            },
+            {
+              "period": "Dec 2020 - Dec 2021",
+              "description": "Superset Placements"
+            },
+            {
+              "period": "Oct 2023 - Jul 2025",
+              "description": "Enrollment Closed for Engineering Campus Placement - 2025 Batch"
+            }
+          ]
+        },
+        "socialMedia": {
+          "isFreezed": false,
+          "list": [
+            {
+              "id": 1,
+              "platform": "LinkedIn",
+              "link": "https://www.linkedin.com"
+            },
+            {
+              "id": 2,
+              "platform": "GitHub",
+              "link": "https://github.com"
+            }
+          ]
+        }
+      }      
+]

@@ -1,0 +1,76 @@
+{
+  "education": {
+    "isFrozen": false,
+    "startYear": "2021",
+    "endYear": "2025",
+    "cgpa": "9.32",
+    "percentage":"93.2",
+    "institution": "SRM Institute of Science and Technology",
+    "campus":"Modinagar",
+    "program":"B.Tech",
+    "department":"Computer Science and Engineering",
+    "specialization": "Artificial Intelligence and Machine Learning",
+    "sec":"B",
+    "semester": "6th",
+    "rollNo": "RA2111026030029"
+  },
+  "semesterScores": [
+    {
+      "isFrozen": false,
+      "semester": "1",
+      "cgpa": "9.32",
+      "sgpa": "10",
+      "backlogs": 0
+    },
+    {
+      "isFrozen": false,
+      "semester": "2",
+      "cgpa": "9.05",
+      "sgpa": "9.05",
+      "backlogs": 0
+    },
+    {
+      "isFrozen": false,
+      "semester": "3",
+      "cgpa": "9.5",
+      "sgpa": "9.5",
+      "backlogs": 0
+    },
+    {
+      "isFrozen": false,
+      "semester": "4",
+      "cgpa": "9.12",
+      "sgpa": "9.12",
+      "backlogs": 0
+    },
+    {
+      "isFrozen": false,
+      "semester": "5",
+      "cgpa": "9",
+      "sgpa": "9",
+      "backlogs": 0
+    }
+  ],
+  "previousEducation": [
+    {
+      "isFrozen": false,
+      "educationType": "Full Time",
+      "program": "12th",
+      "institution": "MG PUBLIC SCHOOL CIRCULAR ROAD MUZAFFARNAGAR",
+      "percentage": "95",
+      "board": "CBSE",
+      "year": "2020 - 2021",
+      "document": "12th.pdf"
+    },
+    {
+      "isFrozen": false,
+      "educationType": "Full Time",
+      "program": "10th",
+      "institution": "MG PUBLIC SCHOOL CIRCULAR ROAD MUZAFFARNAGAR",
+      "percentage": "85",
+      "board": "CBSE",
+      "year": "2018 - 2019",
+      "document": "10th.pdf"
+    }
+  ]
+}

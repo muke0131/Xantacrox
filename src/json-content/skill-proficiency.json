@@ -1,0 +1,14 @@
+{
+    "technicalSkill": [
+      { "id": 1, "skillName": "Java", "proficiency": "Intermediate", "certificate": "" },
+      { "id": 2, "skillName": "Python", "proficiency": "Advanced", "certificate": "" }
+    ],
+    "communicationLanguage": [
+      { "id": 1, "name": "English", "proficiency": "Fluent" },
+      { "id": 2, "name": "Spanish", "proficiency": "Intermediate" }
+    ],
+    "courseList": [
+      { "id": 1, "subCode": "CS101", "subName": "Data Structures", "sem": "3", "credit": "4" },
+      { "id": 2, "subCode": "CS202", "subName": "Algorithms", "sem": "4", "credit": "3" }
+    ]
+}
