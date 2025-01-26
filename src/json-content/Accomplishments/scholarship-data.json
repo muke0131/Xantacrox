@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Global Tech Scholarship",
+      "awardedBy": "Tech Foundation",
+      "proofurl": "https://techfoundation.com/global-tech-scholarship",
+      "dateAwarded": "2023-06-01",
+      "description": "A scholarship awarded to students excelling in computer science and technology."
+    },
+    {
+      "name": "Environmental Studies Grant",
+      "awardedBy": "Green Earth Organization",
+      "proofurl": "https://greenearth.org/environmental-studies-grant",
+      "dateAwarded": "2022-08-15",
+      "description": "A grant for students pursuing studies in environmental sciences."
+    },
+    {
+      "name": "Innovation in Education Scholarship",
+      "awardedBy": "Education Forward",
+      "proofurl": "https://educationforward.org/innovation-in-education",
+      "dateAwarded": "2024-01-20",
+      "description": "A scholarship recognizing innovative ideas in the field of education."
+    }
+  ]
+  

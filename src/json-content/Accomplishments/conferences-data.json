@@ -1,0 +1,19 @@
+[
+    {
+      "title": "AI and Machine Learning Conference",
+      "organiser": "TechWorld Inc.",
+      "event_address": "123 Innovation Street, San Francisco, CA",
+      "event_date": "2024-05-20",
+      "google_drive_link": "https://drive.google.com/example1",
+      "description": "A comprehensive workshop on AI and its applications in modern industries."
+    },
+    {
+      "title": "Web Development Workshop",
+      "organiser": "CodeAcademy",
+      "event_address": "456 Developer Lane, Austin, TX",
+      "event_date": "2023-11-15",
+      "google_drive_link": "https://drive.google.com/example2",
+      "description": "Hands-on sessions to build and deploy scalable web applications."
+    }
+  ]
+  

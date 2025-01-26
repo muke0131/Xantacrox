@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Portfolio Website",
+      "domain": "Web Development",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-01",
+      "currentlyWorkingOnIt": false,
+      "githubUrl": "https://github.com/username/portfolio-website",
+      "workingUrl": "https://www.myportfolio.com",
+      "associatedWith": "Personal Project",
+      "description": "<p>Designed and developed a personal portfolio website using React and Tailwind CSS. Implemented responsive design and optimized for performance.</p>",
+      "isEditable": false
+    },
+    {
+      "title": "E-commerce Platform",
+      "domain": "Software Development",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "currentlyWorkingOnIt": true,
+      "githubUrl": "https://github.com/username/ecommerce-platform",
+      "workingUrl": "https://www.ecommerce.com",
+      "associatedWith": "Freelance",
+      "description": "<p>Developed a full-stack e-commerce platform with features such as user authentication, product listings, and payment integration using Node.js and React.</p>",
+      "isEditable": false
+    }
+  ]
+  

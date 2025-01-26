@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Hackathon Winner",
+      "position_rank": "1st Place",
+      "associated_with": "Global Hackathon 2023",
+      "competition_date": "2023-03-15",
+      "award_proof_pdf": "https://example.com/proof1.pdf",
+      "description": "Won the first prize in the global hackathon for innovative AI solution."
+    },
+    {
+      "title": "CodeJam Finalist",
+      "position_rank": "Top 10",
+      "associated_with": "CodeJam 2022",
+      "competition_date": "2022-11-10",
+      "award_proof_pdf": "https://example.com/proof2.pdf",
+      "description": "Achieved top 10 rank in a highly competitive programming event."
+    }
+  ]
+  

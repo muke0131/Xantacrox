@@ -14,11 +14,28 @@ import {
   SidebarTrigger,
 } from "@/components/ui/sidebar"
 import Navbar from "./Navbar"
-// import Student_Details from "./Student_Details"
-// import Education_Details from "./Education_Details"
-// import ProfessionalExperience from "./Professional-experience"
+import Student_Details from "./Student_Details"
+import Education_Details from "./Education_Details"
+import ProfessionalExperience from "./Professional-experience"
 import SkillsAndProficiency from "./SkillsAndProficiency"
+import PositionOfResponsibilities from "./PositionOfResponsibilities"
+import ProjectsInput from "./Projects-input"
+import AwardRecognition from "./AccomplishMents/AwardRecognition"
+import AddCertification from "./AccomplishMents/AddCertification"
+import { useState } from "react"
+import AddCompetition from "./AccomplishMents/AddCompetition"
+import AddConference from "./AccomplishMents/AddConference"
+import MainFramer from "./FramesMotion/MainFramer"
+import TestScores from "./AccomplishMents/TestScores"
+import PatentData from "./AccomplishMents/PatentData"
+import AddPublication from "./AccomplishMents/AddPublication"
+import AddScholarship from "./AccomplishMents/AddScholarship"
+
 export default function Page() {
+  const [blury,setB]=useState(true);
+  setTimeout(()=>{
+    setB(false);
+  },3000)
   return (
     <SidebarProvider>
       <AppSidebar />
@@ -43,18 +60,34 @@ export default function Page() {
             </Breadcrumb>
           </div>
         </header>
-        {/* <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
-          <div className="grid auto-rows-min gap-4 md:grid-cols-3">
-            <div className="aspect-video rounded-xl bg-muted/50" />
-            <div className="aspect-video rounded-xl bg-muted/50" />
-            <div className="aspect-video rounded-xl bg-muted/50" />
-          </div>
-          <div className="min-h-[100vh] flex-1 rounded-xl bg-muted/50 md:min-h-min" />
-        </div> */}
-        {/* <Student_Details/>
-        <Education_Details/> */}
-        {/* <ProfessionalExperience/> */}
-        <SkillsAndProficiency/>
+        {blury? 
+        // <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
+        //   <div className="grid auto-rows-min gap-4 md:grid-cols-3">
+        //     <div className="aspect-video rounded-xl bg-muted/50" />
+        //     <div className="aspect-video rounded-xl bg-muted/50" />
+        //     <div className="aspect-video rounded-xl bg-muted/50" />
+        //   </div>
+        //   <div className="min-h-[100vh] flex-1 rounded-xl bg-muted/50 md:min-h-min" />
+        // </div>
+        <MainFramer/> 
+        :<>
+        <AddPublication/>
+        <AddScholarship/>
+        <PatentData/>
+        <TestScores/>
+        <AddConference/>
+        <AddCompetition/>
+        <AddCertification/>
+        <AwardRecognition/><ProjectsInput/>
+        <PositionOfResponsibilities/>
+        <Student_Details/>
+        
+        <Education_Details/>
+        <ProfessionalExperience/>
+        <SkillsAndProficiency/></>
+        
+}
+        
       </SidebarInset>
     </SidebarProvider>
   )

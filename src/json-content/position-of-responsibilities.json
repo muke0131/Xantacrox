@@ -1,0 +1,29 @@
+[
+  {
+    "position": "Team Lead",
+    "organization": "Tech Solutions Inc.",
+    "startDate": "2021-05-01",
+    "endDate": "2023-04-30",
+    "currentlyWorking": false,
+    "description": "<b>Lead</b> a team of 10 engineers to develop innovative software solutions.",
+    "isEditable": false
+  },
+  {
+    "position": "Project Manager",
+    "organization": "InnoTech",
+    "startDate": "2023-05-01",
+    "endDate": null,
+    "currentlyWorking": true,
+    "description": "<i>Managing</i> multiple projects and ensuring timely delivery.",
+    "isEditable": false
+  },
+  {
+    "position": "Software Engineer",
+    "organization": "CodeFactory",
+    "startDate": "2018-01-01",
+    "endDate": "2021-04-30",
+    "currentlyWorking": false,
+    "description": "Developed <u>scalable</u> backend systems and improved application performance.",
+    "isEditable": false
+  }
+]

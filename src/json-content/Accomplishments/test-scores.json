@@ -1,0 +1,29 @@
+[
+    {
+      "title": "GRE",
+      "scoreType": "Percentile",
+      "percentile": 95,
+      "associatedWith": "Graduate Admissions",
+      "examDate": "2024-01-15",
+      "description": "Scored 95th percentile in the GRE exam."
+    },
+    {
+      "title": "Coding Contest",
+      "scoreType": "Rank",
+      "rank": 10,
+      "associatedWith": "Tech Competition",
+      "examDate": "2023-12-01",
+      "description": "Achieved 10th rank in a global coding contest."
+    },
+    {
+      "title": "SAT",
+      "scoreType": "Score",
+      "yourScore": 1400,
+      "maxScore": 1600,
+      "percentage": 87.5,
+      "associatedWith": "College Admissions",
+      "examDate": "2023-09-20",
+      "description": "Achieved a total score of 1400 out of 1600."
+    }
+  ]
+  

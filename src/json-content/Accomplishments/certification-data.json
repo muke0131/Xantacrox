@@ -1,0 +1,23 @@
+[
+    {
+      "name": "AWS Certified Solutions Architect",
+      "authority": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+      "license_number": "ABC123",
+      "issue_date": "2022-05-15",
+      "expiry_date": "2025-05-15",
+      "score": "N/A",
+      "description": "AWS Solutions Architect - Associate certification demonstrating expertise in designing scalable and resilient applications."
+    },
+    {
+      "name": "Google Cloud Professional Cloud Architect",
+      "authority": "Google Cloud",
+      "url": "https://cloud.google.com/certification/cloud-architect",
+      "license_number": "GCP456",
+      "issue_date": "2021-08-01",
+      "expiry_date": "2024-08-01",
+      "score": "85",
+      "description": "Certification for cloud professionals with a focus on designing and managing Google Cloud solutions."
+    }
+  ]
+  

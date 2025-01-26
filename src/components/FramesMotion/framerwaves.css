@@ -1,0 +1,25 @@
+/* Animation for gradient waves */
+@keyframes gradientWave {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  /* Applied to grid and background */
+  .wave-animation {
+    position: relative;
+    background: linear-gradient(270deg, #e0e0e0, #f7f7f7, #e0e0e0);
+    background-size: 400% 400%;
+  }
+  
+  /* Animation class for infinite waves */
+  .animate-gradient-wave {
+    animation: gradientWave 6s ease-in-out infinite;
+  }
+  
